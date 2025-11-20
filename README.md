@@ -1,2 +1,16 @@
-# Simple-Grade-calculator-for-student
-A simple Java console-based project that takes three subject marks from the user and calculates the total, average, and grade. The project demonstrates core Java skills such as input handling, arithmetic operations, conditional logic, and clean output formatting. It is implemented using a single Java class and executed through the command line.
+___ Grade Calculator for student using Java ___
+
+This is a simple Java console application that calculates the total,
+average, and grade of a student based on three subject marks entered
+by the user.
+
+Features
+- Accepts 3 input marks
+- Calculates total marks and average
+- Assigns grade (A, B, C, or Fail)
+- Easy to understand and beginner-friendly
+
+How to Run
+
+1. Save the file as GradeCode.java
+2. Run the program
